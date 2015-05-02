@@ -34,3 +34,16 @@
 .jumbotron p {
 	text-align: center;
 }
+.navbar-default .navbar-nav>li>a {
+	color: black;
+}
+.navbar-default .navbar-brand {
+	color:black;
+	font-size: 75px;
+}
+.fa-instagram:before {
+	color:white;
+}
+.fa-facebook-f:before, .fa-facebook:before {
+	color:white;
+}
