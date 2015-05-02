@@ -18,7 +18,7 @@
 	margin:10px;
 }
 .navbar-default {
-	background-color: yellow;
+	background-color: black;
 }
 .body {
 	background-color:black;
@@ -26,7 +26,8 @@
 .jumbotron {
 	position: relative;
 	top:100px;
-	height:500px;
+	height:425px;
+	background-color:white;
 }
 .jumbotron h1 {
 	text-align: center;
@@ -35,10 +36,10 @@
 	text-align: center;
 }
 .navbar-default .navbar-nav>li>a {
-	color: black;
+	color: white;
 }
 .navbar-default .navbar-brand {
-	color:black;
+	color:#F9A602;
 	font-size: 75px;
 }
 .fa-instagram:before {
@@ -46,4 +47,23 @@
 }
 .fa-facebook-f:before, .fa-facebook:before {
 	color:white;
+}
+.constitution p {
+	text-align:center;
+	font-size:22px;
+	padding-top:50px;
+	width:1100px;
+	color:white;
+	display:absolute;
+	margin-left:100px;
+}
+.constitution h2 {
+	margin-top:150px;
+	margin-bottom:10px;
+	text-align: center;
+	color:#F9A602;
+	font-size: 60px;
+}
+.bs-example {
+	text-align: center;
 }
