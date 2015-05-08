@@ -64,6 +64,27 @@
 	color:#F9A602;
 	font-size: 60px;
 }
-.bs-example {
+
+.ArticleI h2 {
 	text-align: center;
+}
+.fa:hover {
+	background-color: #F9A602;
+}
+.fa {
+
+}
+.btn-instagram {
+	margin-left:10px;
+}
+h4, .h4 {
+  font-size: 25px;
+}
+
+.btn-primary {
+	color: black;
+}
+.btn-lg, .btn-group-lg>.btn {
+	font-size:22px;
+	font-weight: 700;
 }
